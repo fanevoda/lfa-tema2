@@ -3,7 +3,7 @@
 This is a python script that generates a list of words of given lenght that are accepted by a Deterministic Finite Automaton (DFA) or a Non-Deterministic Finite Automaton (NFA).
 
 
-#Input format
+# Input format
 
 ```
 q0 1 q0
