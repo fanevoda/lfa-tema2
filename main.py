@@ -57,7 +57,7 @@ for lungime in range(int(cuvinte[0])+2):
                 cuvintebunepoate.append(el[1])
 
 
-print(cuvintebunepoate)
+print(*cuvintebunepoate)
 
 
 
