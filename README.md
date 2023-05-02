@@ -17,6 +17,8 @@ q1 q3
 ```
 where the last row dictates the lenght of the words and the second to last contains the final states of the automaton
 
+# Output format
+
 The script outputs words that would be accepted by the automaton.
 
 ```
