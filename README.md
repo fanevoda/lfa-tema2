@@ -15,7 +15,7 @@ q2 2 q3
 q1 q3
 6
 ```
-where the last row dictates the lenght of the words and the second to last contains the final states of the automaton
+where the last row dictates the length of the words and the second to last contains the final states of the automaton
 
 # Output format
 
